@@ -1,4 +1,0 @@
-Static{
-Syste.setProperties("webdriver.chrome.driver","${parent.dir}/Sostwares/chromedriver.exe")
-}
-Final Version done
