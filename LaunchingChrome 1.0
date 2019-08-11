@@ -1,0 +1,8 @@
+static{
+	static {
+		// i want it to run before main() thats why static block
+		// key-browser i will use, value ->where executable is present
+		// . represent the current project
+		System.setProperty("webdriver.chrome.driver", "./Softwares/chromedriver.exe");// key value pairs
+	}
+}
