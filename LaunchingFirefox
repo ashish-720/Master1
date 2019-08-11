@@ -1,6 +1,0 @@
-Static{
-Syste.setProperties("webdriver.chrome.driver","${parent.dir}/Sostwares/chromedriver.exe")
-}
-Static{
-Syste.setProperties("webdriver.gecko.driver","${parent.dir}/Sostwares/geckodriver.exe")
-}
